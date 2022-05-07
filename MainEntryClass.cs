@@ -11,7 +11,7 @@ namespace ConsoleApp1
             //Product.objcreatemethod();
             // Testc.Objcreatemethod();
             // DictionaryDemo.demo();
-            // DictionaryDemo2.demo();
+            // DictionaryDemo2.demo();///////
             //Calculation.calculate();
             //Calculation2.calculate2();
             //Stack1.prod();
